@@ -1,0 +1,20 @@
+A) Klassedefinisjon:
+    Linje 1
+
+B) Opprettelse av nytt objekt
+    Linje 7
+
+C) Definisjon av instansvariabel
+    Linje 3
+    
+D) Definisjon av instansmetode
+  Linje 11 - 13
+
+E) Definisjon av konstruktør
+    Linje 2
+
+F) Kall for instansmetode
+    Linje 25
+
+G) Argumenter
+    Linje 25 - inne i parantesten er to argument

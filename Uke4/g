@@ -1,0 +1,6 @@
+teller = 1
+  for ord in ordene:
+      if ord == ord:
+          ord = 1
+          total = teller + ord
+        print("Det er" , len(setning)) , "ord i setningen. Ordet" , setningsordbok[0] , "forekommer" 

@@ -1,0 +1,19 @@
+1. Hva er innkapsling? Hvorfor er det viktig?
+  Innkapsling er når vi gjemmer "tilstanden" til eit objekt fra andre, nesten som kryptering
+  Det er viktig fordi det gjør at uforstående kode ikke kan endre på tilstanden
+  til objektet på uforutsette måtar.
+
+2. Hva er grensesnittet til en klasse? Hvordan skiller det seg fra implementasjon av en klasse?
+  Grensesnitt er tjenestene eit objekt tilbyr i form av metorder. Man kan kalle på desse for å lese av, endre
+  eller aktivisere objektet. 
+  Dette skiller seg fra implementasjon ved at grensesnittet definerer objektene, det er implimenteringen som utfører
+  instruksjonene fra grensesnittet
+
+3. Hva er en instansmetode, og hvordan skiller dette seg fra prosedyrene/funksjonene vi har møtt hittil?
+  En instansmetode er metoder som krever at objekter i klassen blir opprettet/definert før du kaller på klassen.
+  En funksjon er et stykke kode som kalles ved navn. Det kan sendes data for å fungere (dvs. parametrene) og kan returnere data.
+  Alle data som sendes til en funksjon blir eksplisitt overført.
+  En instansmetode er et stykke kode som kalles med et navn som er knyttet til et objekt.
+  Dei er for det emste identisk med en funksjon bortsett fra to viktige forskjeller:
+  En metode sendes implisitt objektet som den ble kalt på.
+  En metode er i stand til å operere på data som er inneholdt i klassen
